@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://thomson.tristangoetz.me"
+baseURL = "https://thomson.tristangoetz.me"
 languageCode = "en-us"
 theme = "thomson-hugo"
 title = "Thomson-Minimal Hugo Portfolio Temaplate"
